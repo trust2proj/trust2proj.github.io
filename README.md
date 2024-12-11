@@ -14,7 +14,7 @@ You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certi
 
 ## Publications 
 
-- *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://doi.org/10.1145/3485491)*, by Jiayi Lu, Shenghao Yuan*, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024) , Hong Kong, China, November 26–28, 2024, pp. 197-216..
+- *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_11)*, by Jiayi Lu, Shenghao Yuan*, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024) , Hong Kong, China, November 26–28, 2024, pp. 197-216..
 
 
 ## Current Members (In alphabetical order)
