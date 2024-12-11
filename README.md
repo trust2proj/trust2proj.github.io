@@ -12,9 +12,9 @@ Large parts of the CertiCoq compiler have been verified whereas others are in th
 
 You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certicoq). CertiCoq is part of the [DeepSpec](https://deepspec.org) project.
 
-## Current Members
+## Current Members (In alphabetical order)
 
-[Andrew Appel](https://www.cs.princeton.edu/~appel/), [Yannick Forster](https://www.ps.uni-saarland.de/~forster/), [Anvay Grover](https://anvayg.github.io), [Joomy Korkut](https://www.cs.princeton.edu/~ckorkut/), [John Li](https://www.cs.princeton.edu/~johnli/), [Zoe Paraskevopoulou](https://zoep.github.io), [Kathrin Stark](https://www.k-stark.de/), and [Matthieu Sozeau](https://www.irif.fr/~sozeau/).
+[Rui Chang]([https://davidsanan.github.io/](https://person.zju.edu.cn/changrui)), [Jun Liu](), [Jiayi Lu](), [David Sanan](https://davidsanan.github.io/), [Shenghao Yuan](https://shenghaoyuan.github.io/), [Zhuoruo Zhang](), [Yongwang Zhao](https://lvpgroup.github.io/)
 
 ## Past Members and Contributors
 
