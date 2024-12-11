@@ -12,13 +12,15 @@ Large parts of the CertiCoq compiler have been verified whereas others are in th
 
 You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certicoq). CertiCoq is part of the [DeepSpec](https://deepspec.org) project.
 
+## Publications 
+
+- *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://doi.org/10.1145/3485491)*, by Jiayi Lu, Shenghao Yuan*, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024) , Hong Kong, China, November 26–28, 2024, pp. 197-216..
+
+
 ## Current Members (In alphabetical order)
 
 [Rui Chang](https://person.zju.edu.cn/changrui), [Jun Liu](), [Jiayi Lu](), [David Sanan](https://davidsanan.github.io/), [Shenyi Yang](), [Zhibin Yang](), [Qiyuan Xu](), [Shenghao Yuan](https://shenghaoyuan.github.io/), [Zhuoruo Zhang](), [Yongwang Zhao](https://lvpgroup.github.io/)
 
-## Past Members and Contributors
-
-Abhishek Anand, Greg Morrisett, Randy Pollack, Olivier Savary Belanger, Matthew Weaver
 
 ## Documentation
 
