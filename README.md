@@ -55,7 +55,7 @@ The project has been supported by the National Science Foundation, grants CCF-14
 
 ## License 
 
-CertiCoq is open source and distributed under the [MIT license](LICENSE.md).
+TRust2 is open source and distributed under the [MIT license](LICENSE.md).
 
 ## Bugs 
 
