@@ -14,7 +14,7 @@ You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certi
 
 ## Current Members (In alphabetical order)
 
-[Rui Chang](https://person.zju.edu.cn/changrui)), [Jun Liu](), [Jiayi Lu](), [David Sanan](https://davidsanan.github.io/), [Shenghao Yuan](https://shenghaoyuan.github.io/), [Zhuoruo Zhang](), [Yongwang Zhao](https://lvpgroup.github.io/)
+[Rui Chang](https://person.zju.edu.cn/changrui), [Jun Liu](), [Jiayi Lu](), [David Sanan](https://davidsanan.github.io/), [Shenyi Yang](), [Zhibin Yang](), [Qiyuan Xu](), [Shenghao Yuan](https://shenghaoyuan.github.io/), [Zhuoruo Zhang](), [Yongwang Zhao](https://lvpgroup.github.io/)
 
 ## Past Members and Contributors
 
