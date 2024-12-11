@@ -1,7 +1,5 @@
 <p align="center">
-<img src="certicoq.png" alt="CertiCoq" width="200px"/>
-<img src="Blank300.png" alt="blank" width="200px"/>
-<img src="deepspec-logo-300dpi.png" width="100px"/>
+<img src="trust2logo.png" alt="TRust" width="500px"/>
 </p>
 
 ## Overview
