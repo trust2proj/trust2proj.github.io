@@ -4,7 +4,7 @@
 
 ## Overview
 
-....
+TRust<sup>2</sup> is an open project to develop formally Verified toolchain for the Rust language using theorem provers such as Isabelle/HOL and Coq. 
 
 ## Publications 
 
