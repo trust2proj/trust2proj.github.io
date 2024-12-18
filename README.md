@@ -4,59 +4,36 @@
 
 ## Overview
 
-CertiCoq is a compiler for Gallina, the specification language of the [Coq proof assistant](https://coq.inria.fr/refman/index.html). CertiCoq targets Clight, a subset of the C language that can be compiled with any C compiler, including the [CompCert](http://compcert.org) verified compiler.
-
-The goal of the CertiCoq project is to build an end-to-end verified compiler for Gallina, bridging the gap between formally verified source programs and their compiled executables.  
-
-Large parts of the CertiCoq compiler have been verified whereas others are in the process of being verified.
-
-You can find CertiCoq's souce code on [GitHub](https://github.com/CertiCoq/certicoq). CertiCoq is part of the [DeepSpec](https://deepspec.org) project.
-
-## Current Members
-
-[Andrew Appel](https://www.cs.princeton.edu/~appel/), [Yannick Forster](https://www.ps.uni-saarland.de/~forster/), [Anvay Grover](https://anvayg.github.io), [Joomy Korkut](https://www.cs.princeton.edu/~ckorkut/), [John Li](https://www.cs.princeton.edu/~johnli/), [Zoe Paraskevopoulou](https://zoep.github.io), [Kathrin Stark](https://www.k-stark.de/), and [Matthieu Sozeau](https://www.irif.fr/~sozeau/).
-
-## Past Members and Contributors
-
-Abhishek Anand, Greg Morrisett, Randy Pollack, Olivier Savary Belanger, Matthew Weaver
-
-## Documentation
-
-The [CertiCoq Wiki](https://github.com/PrincetonUniversity/certicoq/wiki) has instructions for using the [CertiCoq plugin](https://github.com/PrincetonUniversity/certicoq/wiki/The-CertiCoq-plugin) to compile Gallina to C and interfacing with the generated C code.
-
-The Wiki also gives an [overview](https://github.com/PrincetonUniversity/certicoq/wiki/The-CertiCoq-pipeline) of the compiler and its verification status. 
-
+TRust<sup>2</sup> is an open project to develop formally Verified toolchain for the Rust language using theorem provers such as Isabelle/HOL and Coq. The toolchain will include formal languages, program verifier, static analyzer, verified compilers, and code generator for Rust. 
 
 ## Publications 
 
-- *[Compiling with Continuations, Correctly](https://doi.org/10.1145/3485491)*, by Zoe Paraskevopoulou and Anvay Grover, Proc. ACM Program. Lang. Vol. 5, No. OOPSLA, Article 114 (29 pages), October 2021.
+- *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_11)*, by Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024), Hong Kong, China, November 26–28, 2024, pp. 197-216.
 
-- *[Compositional Optimizations for CertiCoq](https://doi.org/10.1145/3473591)*, by Zoe Paraskevopoulou, John M. Li, and Andrew W. Appel, Proc. ACM Program. Lang. Vol. 5, No. ICFP, Article 86 (30 pages), August 2021.
+- *[面向Rust语言的形式化验证方法研究综述](https://www.jos.org.cn/jos/article/abstract/7353)*, 张卓若,常瑞,杨申毅,陈芳. 软件学报,2025,36(8):0. 
 
-- *[Deriving Efficient Program Transformations from Rewrite Rules](https://doi.org/10.1145/3473579)*, by John M. Li and Andrew W. Appel, Proc. ACM Program. Lang. Vol. 5, No. ICFP, Article 74 (29 pages), August 2021.
+## Current Members (Alphabetical)
 
-- *[Coq Coq Correct! Verification of Type Checking and Erasure for Coq, in Coq](https://metacoq.github.io/coqcoqcorrect)*, by Matthieu Sozeau, Simon Boulier, Yannick Forster, Nicolas Tabareau and Théo Winterhalter. Proc. ACM Program. Lang. Vol. 4, No. POPL, Article 8 (28 pages), August 2021.
+[Rui Chang](https://person.zju.edu.cn/changrui), Jian Cheng, Jun Liu, Jiayi Lu, Di Luo, [David Sanan](https://davidsanan.github.io/), Shenyi Yang, [Zhibin Yang](https://faculty.nuaa.edu.cn/yangzhibin/zh_CN/index.htm), [Shenghao Yuan](https://shenghaoyuan.github.io/), Qiyuan Xu, Zhuoruo Zhang, [Yongwang Zhao](https://lvpgroup.github.io/)
 
-- *[Certified Code Generation from CPS to C](https://www.cs.princeton.edu/~appel/papers/CPStoC.pdf)*, by Olivier Savary Belanger, Matthew Z. Weaver, and Andrew W. Appel, October 2019.
 
-- *Certifying Graph-Manipulating C Programs via Localizations within Data Structures*. Shengyi Wang, Qinxiang Cao, Anshuman Mohan, and Aquinas Hobor. OOPSLA: Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2019), Athens, Greece, October 2019.
+## Documentation
 
-- *Closure Conversion is Safe for Space*. Zoe Paraskevopoulou and Andrew W. Appel. Proceedings of the ACM on Programming Languages, vol. 3, no. ICFP, article 83, 29 pages, doi 10.1145/3341687, August 2019.
-
-- *Shrink Fast Correctly!*. Olivier Savary Belanger and Andrew W. Appel. Proceedings of International Symposium on Principles and Practice of Declarative Programming (PPDP'17), pages 49-60, ACM Press, October 2017 (PPDP’17).
-
-- *CertiCoq: A verified compiler for Coq*. Abhishek Anand, Andrew Appel, Greg Morrisett, Zoe Paraskevopoulou, Randy Pollack, Olivier Savary Belanger, Matthieu Sozeau, and Matthew Weaver. In CoqPL'17: The Third International Workshop on Coq for Programming Languages, January 2017.
+....
 
 
 ## Funding
 
-The project has been supported by the National Science Foundation, grants CCF-1407790,  CCF-1407794,  CCF-2005545, and the CIFellows program.
+The project has been supported by ...
 
 
 ## License 
 
-CertiCoq is open source and distributed under the [MIT license](LICENSE.md).
+TRust2 is open source and distributed under the [MIT license](LICENSE.md).
 
 ## Bugs 
+...
 
-We use github's [issue tracker](https://github.com/PrincetonUniversity/certicoq/issues) to keep track of bugs and feature requests.
+<p align="center">
+<a href="https://clustrmaps.com/site/1c34d" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TTJIp2Z710NHOwDUNesA6uMqU3dX8kAJiL7b36c4rK0&cl=ffffff"></a>
+</p>
