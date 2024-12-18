@@ -6,6 +6,10 @@
 
 TRust<sup>2</sup> is an open project to develop formally Verified toolchain for the Rust language using theorem provers such as Isabelle/HOL and Coq. The toolchain will include formal languages, program verifier, static analyzer, verified compilers, and code generator for Rust. 
 
+<p align="center">
+<img src="trust2logo.png" alt="TRust" width="500px"/>
+</p>
+
 ## Publications 
 
 - *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_11)*, by Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024), Hong Kong, China, November 26–28, 2024, pp. 197-216.
