@@ -12,7 +12,7 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 
 - *[面向Rust语言的形式化验证方法研究综述](https://www.jos.org.cn/jos/article/abstract/7353)*, 张卓若,常瑞,杨申毅,陈芳. 软件学报,2025,36(8):0. 
 
-## Current Members (In alphabetical order)
+## Current Members (Alphabetical)
 
 [Rui Chang](https://person.zju.edu.cn/changrui), Jian Cheng, Jun Liu, Jiayi Lu, Di Luo, [David Sanan](https://davidsanan.github.io/), Shenyi Yang, [Zhibin Yang](https://faculty.nuaa.edu.cn/yangzhibin/zh_CN/index.htm), [Shenghao Yuan](https://shenghaoyuan.github.io/), Qiyuan Xu, Zhuoruo Zhang, [Yongwang Zhao](https://lvpgroup.github.io/)
 
