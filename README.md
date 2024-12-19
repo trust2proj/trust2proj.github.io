@@ -12,6 +12,8 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 
 ## Publications 
 
+- *[A complete formal semantics of eBPF instruction set architecture for Solana](doc/OOPSLA25.pdf)*, by Shenghao Yuan, Zhuoruo Zhang, Jiayi Lu, David Sanan, Rui Chang, Yongwang Zhao. OOPSLA25, Singapore, to appear.
+
 - *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_11)*, by Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024), Hong Kong, China, November 26–28, 2024, pp. 197-216.
 
 - *[面向Rust语言的形式化验证方法研究综述](https://www.jos.org.cn/jos/article/abstract/7353)*, 张卓若,常瑞,杨申毅,陈芳. 软件学报,2025,36(8):0. 
