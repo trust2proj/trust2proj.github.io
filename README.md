@@ -22,23 +22,16 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 
 [Rui Chang](https://person.zju.edu.cn/changrui), Jian Cheng, Jun Liu, Jiayi Lu, Di Luo, [David Sanan](https://davidsanan.github.io/), Shenyi Yang, [Zhibin Yang](https://faculty.nuaa.edu.cn/yangzhibin/zh_CN/index.htm), [Shenghao Yuan](https://shenghaoyuan.github.io/), Qiyuan Xu, Zhuoruo Zhang, [Yongwang Zhao](https://lvpgroup.github.io/)
 
+## Links
+
+1. [Phi-System](https://github.com/xqyww123/phi-system): an experimental certified programming language and also a generic verification platform.
+1. 
 
 ## Documentation
 
 ....
 
-
-## Funding
-
-The project has been supported by ...
-
-
-## License 
-
-TRust2 is open source and distributed under the [MIT license](LICENSE.md).
-
-## Bugs 
-...
+## Source Code
 
 <p align="center">
 <a href="https://clustrmaps.com/site/1c34d" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TTJIp2Z710NHOwDUNesA6uMqU3dX8kAJiL7b36c4rK0&cl=ffffff"></a>
