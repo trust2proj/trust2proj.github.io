@@ -1,6 +1,3 @@
-<p align="center">
-<img src="trust2logo.png" alt="TRust" width="500px"/>
-</p>
 
 ## Overview
 
