@@ -9,7 +9,7 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 
 ## Publications 
 
-- *[A complete formal semantics of eBPF instruction set architecture for Solana](doc/OOPSLA25.pdf)*, by Shenghao Yuan, Zhuoruo Zhang, Jiayi Lu, David Sanan, Rui Chang, Yongwang Zhao. OOPSLA25, Singapore, to appear.
+- *[A complete formal semantics of eBPF instruction set architecture for Solana](https://dl.acm.org/doi/10.1145/3720414)*, by Shenghao Yuan, Zhuoruo Zhang, Jiayi Lu, David Sanan, Rui Chang, Yongwang Zhao. OOPSLA25, Singapore, ACM Program. Lang. 9, OOPSLA1, Article 80 (April 2025), 27 pages.
 
 - *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_11)*, by Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024), Hong Kong, China, November 26–28, 2024, pp. 197-216.
 
@@ -26,8 +26,8 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 ## Links
 
 1. [Phi-System](https://github.com/xqyww123/phi-system): an experimental certified programming language and also a generic verification platform.
-1. [CertSBF](https://github.com/shenghaoyuan/CertSBF): A complete formal semantics of eBPF instruction set architecture for Solana. 
-1. [Solana-x64-Semantics](https://github.com/shenghaoyuan/Solana-x64-Semantics): Formalizing x64 binary semantics in Isabelle/HOL. 
+1. [CertSBF](https://github.com/OpenSourceVerif/CertSBF/tree/oopsla25-ae): A complete formal semantics of eBPF instruction set architecture for Solana. 
+1. [Solana-x64-Semantics](https://github.com/OpenSourceVerif/Solana-x64-Semantics): Formalizing x64 binary semantics in Isabelle/HOL. 
 
 
 <p align="center">
