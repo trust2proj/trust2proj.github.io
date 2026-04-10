@@ -10,7 +10,7 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 ## Publications 
 - *[TRust2: Towards Formally Verified Toolchain of Rust Language in Isabelle/HOLs](https://link.springer.com/content/pdf/bfm:978-981-95-4213-0/1)*, by Yongwang Zhao. Keynote/Invited Paper, 26th International Conference on Formal Engineering Methods (ICFEM 2025) , Hangzhou, China, November 10–13, 2025
 
-- *[Tacco: A Framework for Ensuring the Security of Real-World TEEs via Formal Verification]*, by Jilin Hu, Yongwang Zhao#, Shuangquan Pan, Zuohua Ding, and Kui Ren. IEEE Transactions on Dependable and Secure Computing (TDSC), VOL. 22, NO. 6, NOVEMBER/DECEMBER 2025, pp. 6983 - 6997.
+- *[Tacco: A Framework for Ensuring the Security of Real-World TEEs via Formal Verification](https://ieeexplore.ieee.org/document/11106232)*, by Jilin Hu, Yongwang Zhao#, Shuangquan Pan, Zuohua Ding, and Kui Ren. IEEE Transactions on Dependable and Secure Computing (TDSC), VOL. 22, NO. 6, NOVEMBER/DECEMBER 2025, pp. 6983 - 6997.
 
 - *[A complete formal semantics of eBPF instruction set architecture for Solana](https://dl.acm.org/doi/10.1145/3720414)*, by Shenghao Yuan, Zhuoruo Zhang, Jiayi Lu, David Sanan, Rui Chang, Yongwang Zhao. OOPSLA25, Singapore, ACM Program. Lang. 9, OOPSLA1, Article 80 (April 2025), 27 pages.
 
