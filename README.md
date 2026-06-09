@@ -12,6 +12,8 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 
 - *[Tacco: A Framework for Ensuring the Security of Real-World TEEs via Formal Verification](https://ieeexplore.ieee.org/document/11106232)*, by Jilin Hu, Yongwang Zhao#, Shuangquan Pan, Zuohua Ding, and Kui Ren. IEEE Transactions on Dependable and Secure Computing (TDSC), VOL. 22, NO. 6, NOVEMBER/DECEMBER 2025, pp. 6983 - 6997.
 
+- *[A RISC-V JIT Backend for Solana eBPF: Enabling Multi-Architecture Deployment of Blockchain Virtual Machines](https://bcra-conf.seedsbit.com/program)*, by Jun Liu, Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. International Conference on Blockchain Research and Applications (BCRA 2026) (published in the Journal of Blockchain: Research and Applications).
+
 - *[A complete formal semantics of eBPF instruction set architecture for Solana](https://dl.acm.org/doi/10.1145/3720414)*, by Shenghao Yuan, Zhuoruo Zhang, Jiayi Lu, David Sanan, Rui Chang, Yongwang Zhao. OOPSLA25, Singapore, ACM Program. Lang. 9, OOPSLA1, Article 80 (April 2025), 27 pages.
 
 - *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_11)*, by Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024), Hong Kong, China, November 26–28, 2024, pp. 197-216.
