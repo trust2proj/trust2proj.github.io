@@ -1,11 +1,32 @@
 
 ## Overview
 
-TRust<sup>2</sup> is an open project to develop formally Verified toolchain for the Rust language using theorem provers such as Isabelle/HOL and Coq. The toolchain will include formal languages, program verifier, static analyzer, verified compilers, and code generator for Rust. 
+TRust<sup>2</sup> is an open project to develop formally Verified toolchain for the Rust language using theorem provers such as [Isabelle/HOL](https://isabelle.in.tum.de/) and [Rocq](https://rocq-prover.org/). The toolchain will include formal languages, program verifier, static analyzer, verified compilers, and code generator for Rust. 
 
 <p align="center">
 <img src="overview.png" alt="TRust" width="800px"/>
 </p>
+
+### Model-Based Development
+[AADL](https://www.sae.org/standards/as5506b-architecture-analysis-design-language-aadl) and [SysML](https://sysml.org/) are widely used in safety-critical domains such as aerospace and automotive. We are exploring the generation of executable Rust code from these high-level models.
+
+- AADL-to-Rust
+- SysMLv2-to-Rust
+
+### Theorem Provers
+
+Theorem provers (TPs), including Rocq, Isabelle/HOL, and Lean, are employed to guarantee expected properties of given programs. We are working on bidirectional code generation between these TPs and Rust.
+
+- Isabelle2Rust
+- Rust2Isabelle (e.g., based on the [Aeneas-Charon project](https://aeneasverif.github.io/))
+
+### Rust Contract Specification
+We are developing a formal specification following the design-by-contract principle for Rust. Existing efforts in Rust include [Verus](https://github.com/verus-lang/verus), [Prusti](https://github.com/viperproject/prusti-dev), and others. Our current toolchain and specification language are still work in progress.
+
+### Real-world Rust Applications
+
+- [Solana blockchain](https://github.com/solana-labs/solana)
+- [Hvisor](https://github.com/syswonder/hvisor)
 
 ## Publications 
 - *[TRust2: Towards Formally Verified Toolchain of Rust Language in Isabelle/HOLs](https://link.springer.com/content/pdf/bfm:978-981-95-4213-0/1)*, by Yongwang Zhao. Keynote/Invited Paper, 26th International Conference on Formal Engineering Methods (ICFEM 2025) , Hangzhou, China, November 10–13, 2025
