@@ -1,7 +1,7 @@
 
 ## Overview
 
-TRust<sup>2</sup> is an open project to develop formally Verified toolchain for the Rust language using theorem provers such as [Isabelle/HOL](https://isabelle.in.tum.de/) and [Rocq](https://rocq-prover.org/). The toolchain will include formal languages, program verifier, static analyzer, verified compilers, and code generator for Rust. 
+TRust<sup>2</sup> is an open project to develop formally Verified toolchain for the Rust language using theorem provers such as [Isabelle/HOL](https://isabelle.in.tum.de/), [Lean](https://lean-lang.org/), and [Rocq](https://rocq-prover.org/). The toolchain will include formal languages, program verifier, static analyzer, verified compilers, and code generator for Rust. 
 
 <p align="center">
 <img src="overview.png" alt="TRust" width="800px"/>
@@ -15,7 +15,7 @@ TRust<sup>2</sup> is an open project to develop formally Verified toolchain for 
 
 ### Theorem Provers
 
-Theorem provers (TPs), including Rocq, Isabelle/HOL, and Lean, are employed to guarantee expected properties of given programs. We are working on bidirectional code generation between these TPs and Rust.
+Theorem provers (TPs), including Isabelle/HOL, Lean, and Rocq, are employed to guarantee expected properties of given programs. We are working on bidirectional code generation between these TPs and Rust.
 
 - Isabelle2Rust
 - Rust2Isabelle (e.g., based on the [Aeneas-Charon project](https://aeneasverif.github.io/))
@@ -29,13 +29,24 @@ We are developing a formal specification following the design-by-contract princi
 - [Hvisor](https://github.com/syswonder/hvisor)
 
 ## Publications 
+
+### Overveiw of TRust<sup>2</sup> 
 - *[TRust2: Towards Formally Verified Toolchain of Rust Language in Isabelle/HOLs](https://link.springer.com/content/pdf/bfm:978-981-95-4213-0/1)*, by Yongwang Zhao. Keynote/Invited Paper, 26th International Conference on Formal Engineering Methods (ICFEM 2025) , Hangzhou, China, November 10–13, 2025
 
-- *[Tacco: A Framework for Ensuring the Security of Real-World TEEs via Formal Verification](https://ieeexplore.ieee.org/document/11106232)*, by Jilin Hu, Yongwang Zhao#, Shuangquan Pan, Zuohua Ding, and Kui Ren. IEEE Transactions on Dependable and Secure Computing (TDSC), VOL. 22, NO. 6, NOVEMBER/DECEMBER 2025, pp. 6983 - 6997.
+### 2026
+
+- *[Formal Verification of a Memory Allocator for Rust Hypervisors: From Verified to Deployable Code with Functional Equivalence Guarantees](https://github.com/shenghaoyuan/shenghaoyuan.github.io/blob/master/publications/OOPSLA2026.pdf)*, by Liu Jun, Liu Jingxuan, Shenghao Yuan, David Sanan, Chen Kang, Cao Donggang and Yongwang Zhao. Formal Methods in Computer-Aided Design 2026(FMCAD26), to appear.
+
+- *[Formalizing the Linux eBPF Core ISA: A Mechanized Operational Semantics and Its Real-World Applications](https://github.com/shenghaoyuan/shenghaoyuan.github.io/blob/master/publications/OOPSLA2026.pdf)*, by Shenghao Yuan, Yazhou Tang, Tianci Cao, Frédéric Besson, Jean-Pierre Talpin, Mingshuai Chen. OOPSLA26, to appear.
 
 - *[A RISC-V JIT Backend for Solana eBPF: Enabling Multi-Architecture Deployment of Blockchain Virtual Machines](https://bcra-conf.seedsbit.com/program)*, by Jun Liu, Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. International Conference on Blockchain Research and Applications (BCRA 2026) (published in the Journal of Blockchain: Research and Applications).
 
+
+### 2025
+
 - *[A complete formal semantics of eBPF instruction set architecture for Solana](https://dl.acm.org/doi/10.1145/3720414)*, by Shenghao Yuan, Zhuoruo Zhang, Jiayi Lu, David Sanan, Rui Chang, Yongwang Zhao. OOPSLA25, Singapore, ACM Program. Lang. 9, OOPSLA1, Article 80 (April 2025), 27 pages.
+
+- *[Tacco: A Framework for Ensuring the Security of Real-World TEEs via Formal Verification](https://ieeexplore.ieee.org/document/11106232)*, by Jilin Hu, Yongwang Zhao, Shuangquan Pan, Zuohua Ding, and Kui Ren. IEEE Transactions on Dependable and Secure Computing (TDSC), VOL. 22, NO. 6, NOVEMBER/DECEMBER 2025, pp. 6983 - 6997.
 
 - *[Formalizing x86-64 ISA in Isabelle/HOL: A Binary Semantics for eBPF JIT Correctness](https://link.springer.com/chapter/10.1007/978-981-96-0602-3_11)*, by Jiayi Lu, Shenghao Yuan, David Sanan, Yongwang Zhao. 10th Symposium on Dependable Software Engineering: Theories, Tools and Applications (SETTA 2024), Hong Kong, China, November 26–28, 2024, pp. 197-216.
 
@@ -43,9 +54,16 @@ We are developing a formal specification following the design-by-contract princi
 
 ## Current Members (Alphabetical)
 
-[Rui Chang](https://person.zju.edu.cn/changrui), Jian Cheng, Jun Liu, Jiayi Lu, Di Luo, [David Sanan](https://davidsanan.github.io/), Shenyi Yang, [Zhibin Yang](https://faculty.nuaa.edu.cn/yangzhibin/zh_CN/index.htm), [Shenghao Yuan](https://shenghaoyuan.github.io/), Qiyuan Xu, Zhuoruo Zhang, [Yongwang Zhao](https://lvpgroup.github.io/)
+[Jian Cheng](https://github.com/chengjian646), [Zefeng Cheng](https://github.com/X-Bulow), [Hao Liu](https://github.com/Liuhao0917), [Jun Liu](https://github.com/LiuJun5817), [Jiayi Lu](https://lujiayi1008.github.io/), Di Luo, [David Sanan](https://davidsanan.github.io/), [Keshen Xiang](https://github.com/sssxks), [Zhibin Yang](https://faculty.nuaa.edu.cn/yangzhibin/zh_CN/index.htm), [Shenghao Yuan](https://shenghaoyuan.github.io/), [Qiyuan Xu](https://qiyuan.me/), [Yuhan Zou](https://github.com/temp66), [Jiarui Zhao](https://github.com/AphrixZjr), [Yongwang Zhao](https://lvpgroup.github.io/)
+
+## alumni (Alphabetical)
+[Rui Chang](https://person.zju.edu.cn/changrui), Shenyi Yang, [Zhuoruo Zhang](https://github.com/zhuoruo)
 
 ## Source Code
+
+Following the MIT license, the source code of TRust<sup>2</sup> is available at https://github.com/OpenSourceVerif 
+
+_Note: some projects within TRust<sup>2</sup> are initially developed in private repositories. They will be made publicly available once the corresponding submissions or declarations have been accepted/completed_
 
 ## Documentation
 
@@ -54,6 +72,7 @@ We are developing a formal specification following the design-by-contract princi
 1. [Phi-System](https://github.com/xqyww123/phi-system): an experimental certified programming language and also a generic verification platform.
 1. [CertSBF](https://github.com/OpenSourceVerif/CertSBF/tree/oopsla25-ae): A complete formal semantics of eBPF instruction set architecture for Solana. 
 1. [Solana-x64-Semantics](https://github.com/OpenSourceVerif/Solana-x64-Semantics): Formalizing x64 binary semantics in Isabelle/HOL. 
+1. [RustLight AST](https://github.com/OpenSourceVerif/RustLightAST): A lightweight Rust subset AST crate used by all Rust code generation tasks in TRust<sup>2</sup>
 
 
 <p align="center">
