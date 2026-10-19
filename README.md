@@ -30,7 +30,7 @@ We are developing a formal specification following the design-by-contract princi
 
 ## Publications 
 
-### Overveiw of TRust<sup>2</sup> 
+### Overview of TRust<sup>2</sup> 
 - *[TRust2: Towards Formally Verified Toolchain of Rust Language in Isabelle/HOLs](https://link.springer.com/content/pdf/bfm:978-981-95-4213-0/1)*, by Yongwang Zhao. Keynote/Invited Paper, 26th International Conference on Formal Engineering Methods (ICFEM 2025) , Hangzhou, China, November 10–13, 2025
 
 ### 2026
